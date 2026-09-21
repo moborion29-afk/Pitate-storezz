@@ -1,2 +1,1 @@
-# Pitate-storezz
-Loja de contas BLOX fruits 
+# Pirate Store Mobile
